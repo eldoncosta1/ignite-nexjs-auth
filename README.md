@@ -20,6 +20,13 @@ Aplicação Next.js + Autenticação com JWT
 - Validando autenticação (Server)
 - Redirecionamento pelo servidor
 
+## Controle de permissões
+
+- Criando hook de permissão
+- Criando componente de permissão
+- Validando permisssões (Server)
+- Broadcast de logout
+
 ## Iniciando aplicação
 
 First, run the development server:
