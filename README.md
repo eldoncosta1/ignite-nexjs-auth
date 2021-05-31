@@ -1,6 +1,6 @@
-Next Auth
+# Next Auth
 
-Aplicação Next.js + Autenticação JWT
+Aplicação Next.js + Autenticação com JWT
 
 ## Autenticação com JWT
 
@@ -12,6 +12,13 @@ Aplicação Next.js + Autenticação JWT
 - Realizando refresh do token
 - Fila de requisições no Axios
 - Realizando logout automático
+
+## Autenticação com SSR
+
+- Recuperando token no server-side
+- Validando visitante
+- Validando autenticação (Server)
+- Redirecionamento pelo servidor
 
 ## Iniciando aplicação
 
